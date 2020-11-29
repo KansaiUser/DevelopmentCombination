@@ -17,7 +17,7 @@ bool MyInt::isEven()
   return !isOdd();
 }
 
-int Addnum(int p)
+int MyInt::Addnum(int p)
 {
    return (p+NUMERAZO);
 }
