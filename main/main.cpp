@@ -16,6 +16,8 @@ int main(){
        cout<<"The number is even"<<endl;
          
     cout<<"The sum of 1 and NUMERAZO is "<<  my_number.Addnum(1)<<endl;
+
+   // MyInt *otro= new MyInt(5);   
     
 
 }
